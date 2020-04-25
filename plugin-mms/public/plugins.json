@@ -1,0 +1,13 @@
+[
+  {
+    "name": "plugin-mms",
+    "version": "0.0.0",
+    "class": "MmsPlugin",
+    "requires": [
+      {
+        "@twilio/flex-ui": "^1"
+      }
+    ],
+    "src": "http://localhost:3002/plugin-mms.js"
+  }
+]
